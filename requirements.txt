@@ -1,5 +1,7 @@
 streamlit
 openai
-pytesseract
 pdfplumber
+pytesseract
+pdf2image
 Pillow
+PyMuPDF
