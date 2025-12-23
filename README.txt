@@ -5,7 +5,7 @@ streamlit run main.py
 ---------------------------
 If you don't run it with this, it will give an error + you should also run this code in the terminal:
 ----------------------------------------------------
-pip install streamlit openai pdfplumber pytesseract pdf2image Pillow
+pip install streamlit openai pdfplumber pytesseract pdf2image Pillow || if you take an error you should install The library written in error
 ----------------------------------------------------
 , you must also have the 
 "tesseract "program installed 
@@ -49,7 +49,7 @@ And that's all, this program is in Persian.But you can change it to English and 
 streamlit run main.py 
 اگه با این ران نکنی ارور میده + باید این کد هم اجرا کنی توی ترمینالت :
 ------------------------------------------------------
-pip install streamlit openai pdfplumber pytesseract pdf2image Pillow
+pip install streamlit openai pdfplumber pytesseract pdf2image Pillow || اگر به ارور برخوردی تو باید کتابخانه ای که در ارور نوشته شده رو نصب کنی
 ------------------------------------------------------
 , تو باید برنامه 
 tesseract هم نصب داشته باشی
@@ -86,4 +86,5 @@ pause
 ======================================
 2_فایل رو با پسوند .bat سیو کن و رانش کد بوم فایل های تو ساخته شدن
 و تموم راستی این برنامه فارسی هستش  و من به فارسی بودن اش افتخار می کنم.
+
 
